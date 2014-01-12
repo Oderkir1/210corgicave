@@ -1,4 +1,4 @@
-210corgicavern
+210corgicave
 ====
 
 ### This is the course page template for WRA 210
