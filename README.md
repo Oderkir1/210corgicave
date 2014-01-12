@@ -1,4 +1,4 @@
-demo
+210
 ====
 
 ### This is the course page template for WRA 210
