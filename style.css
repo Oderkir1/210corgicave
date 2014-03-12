@@ -28,3 +28,8 @@ h4, h5, h6 {
 a:hover {
 	color:#44B90C;
 	}
+
+img {
+	float:right;
+	height: 400px;
+}
