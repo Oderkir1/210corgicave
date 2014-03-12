@@ -7,28 +7,25 @@ body {
 h1 {
 	font-size:32px;
 	color:#6D1D6A;
-	background-color:#B944B5;
+	background-color:#c0c0c0;
 	}
 	
-h2 {
+h2, ul a{
 	font-size:28px;
 	color:#B944B5;
 	background-color:#FF88FB;
+	text-decoration:none;
 	}
 h3 {
 	font-size:24px;
 	color:#B944B5;
 	background-color:#FF88FB;
 	}
+
 h4, h5, h6 {
 	font-size:18px;
 	color:#B944B5;
 	background-color:#FF88FB;
-	}
-
-a {
-	text-decoration:none;
-	color:#ffffff;
 	}
 	
 a:hover {
