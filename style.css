@@ -33,3 +33,7 @@ img {
 	float:right;
 	height: 200px;
 }
+
+div.bone {
+	display: inline;
+}
