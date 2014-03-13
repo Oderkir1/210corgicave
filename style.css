@@ -30,6 +30,10 @@ img {
 	height: 200px;
 }
 
+div.silly {
+	float:right;
+}
+
 div.bone {
 	display: inline;
 }
