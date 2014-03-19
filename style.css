@@ -10,7 +10,7 @@ h1 {
 	background-color:#c0c0c0;
 	}
 
-h2, ul a, ul {
+h2, ul a, ul, ol a{
 	font-size:20px;
 	color:#B944B5;
 	text-decoration:none;
