@@ -45,6 +45,12 @@ img#mod103 {
 	height:450px;
 }
 
+img#mod104 {
+	float:center;
+	height:100px;
+	border: 2px solid white;
+}
+
 p.caption {
   color:#B944B5;
 }
