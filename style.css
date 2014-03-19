@@ -30,17 +30,17 @@ img {
 	height: 200px;
 }
 
-img.mod101 {
+img#mod101 {
   float: center;
-  height:100px
+  height:150px
 }
 
-img.mod102 {
+img#mod102 {
   float:center;
   height:300px;
 }
 
-img.mod103 {
+img#mod103 {
 	float:center;
 	height:450px;
 }
