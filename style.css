@@ -30,8 +30,18 @@ img {
 	height: 200px;
 }
 
-img.mod10 {
-	float: center;
+img.mod101 {
+  float: center;
+  height:100px
+}
+
+img.mod102 {
+  float:center;
+  height:300px;
+}
+
+p.caption {
+  color:#B944B5;
 }
 
 div.silly {
